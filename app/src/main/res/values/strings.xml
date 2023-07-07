@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="search">Search…</string>
+    <string name="sort_and_filter">Sort and Filter</string>
+    <string name="sort_by">Sort by</string>
+    <string name="sub_regions">Sub-Regions</string>
+    <string name="sub_region">SubRegion</string>
+    <string name="details">Details</string>
+    <string name="capital">Capital</string>
+    <string name="borders">Borders</string>
+    <string name="population">Population</string>
+    <string name="languages">Languages</string>
+    <string name="area">Area</string>
+</resources>
